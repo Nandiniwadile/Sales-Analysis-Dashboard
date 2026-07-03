@@ -144,9 +144,9 @@ Each KPI card includes a mini sparkline to show trends.
 
 ## 📷 Dashboard Preview
 
-<img width="1502" height="773" alt="<img width="1502" height="773" alt="Screenshot 2025-09-11 230617" src="sales analysis Dashbord_page-0001.jpg" /> src="https://github.com/user-attachments/assets/f51faec8-12b8-4b06-bf77-764a7356fbf9" />
+<img width="1502" height="773" alt="Screenshot 2025-09-11 230617" src="sales analysis Dashbord_page-0001.jpg" /> 
 
-> **Note:** Save your dashboard screenshot inside an **Images** folder with the name **sales-dashboard.png**.
+
 
 ---
 
