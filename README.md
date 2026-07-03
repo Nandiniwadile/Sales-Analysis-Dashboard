@@ -150,25 +150,6 @@ Each KPI card includes a mini sparkline to show trends.
 
 ---
 
-## 📁 Repository Structure
-
-```
-Sales-Performance-Dashboard/
-│
-├── Dashboard/
-│   └── Sales Dashboard.pbix
-│
-├── Dataset/
-│   └── Product-Sales-Region.xlsx
-│
-├── Images/
-│   └── sales-dashboard.png
-│
-├── README.md
-└── LICENSE
-```
-
----
 
 ## 🚀 Project Highlights
 
